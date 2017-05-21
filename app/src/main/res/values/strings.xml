@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">42 TextView and shader</string>
+    <string name="text">練習動態文字平移漸變效果</string>
+</resources>

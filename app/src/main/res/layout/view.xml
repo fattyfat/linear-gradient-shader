@@ -1,0 +1,10 @@
+<fatty.a42textviewandshader.testView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/testViewID"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:text="@string/text"
+    android:textAlignment="center"
+    android:textColor="@android:color/background_light"
+    android:gravity="center_vertical"
+    android:textSize="24sp"></fatty.a42textviewandshader.testView>
